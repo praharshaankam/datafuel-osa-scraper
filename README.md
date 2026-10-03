@@ -79,6 +79,3 @@ pytest -q
 - `review_me.py`, `REVIEW.md`: targeted fixes and review findings.
 - `NOTES.md`, `AI_LOG.md`, `RECORDING.md`: decisions and submission documentation.
 
-## Before submission
-
-Replace placeholders in `AI_LOG.md` and `RECORDING.md` with truthful details. Commit incrementally, publish the repository publicly, verify it from an incognito window, and email the repo URL, recording URLs, three city outputs for 2026-09-28, and actual hours spent.
